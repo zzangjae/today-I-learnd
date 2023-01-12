@@ -6,5 +6,5 @@ It's all about what i learned today
 - [linux-command](git/linux-command.md)
 ## http
 - [요청응답](http/요청응답.md)
-## markup
+## markup language
 - [markdown](markup/markdown.md)
