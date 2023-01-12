@@ -20,3 +20,5 @@
 - git diff (track 중이지만 변화가 생긴 얘를 출력해줌)
 
 ## 되돌리기
+- git commit --ammend (가장 최근 커밋한 커밋에 지금 add 된 사항들을 다시 커밋해줌)
+- git reset HEAD <file> (add 한 파일을 unstaged로 변경 해 줌.)
