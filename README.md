@@ -2,9 +2,9 @@
 It's all about what i learned today
 
 ## git
-- [git](/git/git.md)
-- [linux-command](/git/linux-command.md)
+- [git](git/git.md)
+- [linux-command](git/linux-command.md)
 ## http
-- [요청응답](/http/요청응답.md)
+- [요청응답](http/요청응답.md)
 ## markup
-- [markdown](/markup/markdown.md)
+- [markdown](markup/markdown.md)
