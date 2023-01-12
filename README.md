@@ -3,8 +3,8 @@ It's all about what i learned today
 
 ## git
 - [git](/git/git.md)
-- linux-command
+- [linux-command](/git/linux-command.md)
 ## http
-- 요청응답
+- [요청응답](/http/요청응답.md)
 ## markup
-- markdown
+- [markdown](/markup/markdown.md)
