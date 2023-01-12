@@ -30,3 +30,4 @@
 ## push, pull
 - git pull origin main
 - git push origin main
+- git branch -M main (브랜치 변경하기)
