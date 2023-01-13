@@ -34,3 +34,17 @@
 - git pull origin main (클론과 다르게 기존 내용 유지하면서 변경내용 가져옴)
 - git push origin main
 - git branch -M main (브랜치 변경하기)
+
+## push 할 때 github 내에 있는 버전과 내 버전의 차이가 있을경우(둘다 차이가 있음)
+- pull 이후 push를 진행 함.
+
+## push, pull 충돌 할 경우 (같은 파일에 대해 두 곳에서 동시 수정)
+- 다른 곳에서 pull 할 때 충돌이 일어난다.
+- 충돌을 해소 한 뒤 push and pull 해야한다.
+
+## git .gitignore
+- gitignore 파일에 무시할 파일을 지정해줄 수 있음.
+- gitignore.io 에서 필요한 txt파일 뽑을 수 있음
+- init을 하자마자 넣어야 되는 파일 (이미 add된 파일은 ignore 할 수 없음)
+
+
