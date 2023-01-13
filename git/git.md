@@ -22,7 +22,8 @@
 ## 되돌리기
 - git commit --ammend (가장 최근 커밋한 커밋에 지금 add 된 사항들을 다시 커밋해줌)
 - git reset HEAD file (add 한 파일을 unstaged로 변경 해 줌.)
-
+- git checkout -- <file> (file의 변화를 없애고 되돌려 줌.)
+  
 ## 연결하기
 - git remote add origin https://github.com/ChangJae-YOO/Today-I-Learned.git (origin이란 등록이름으로 주소를 원격 연결 )
 - git remote -v (연결 확인)
