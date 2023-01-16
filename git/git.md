@@ -24,7 +24,9 @@
 - ammend 사용시 vim 에디터가 나오므로 주의!
 - git reset HEAD file (add 한 파일을 unstaged로 변경 해 줌.)
 - git checkout -- <file> (file의 변화를 없애고 되돌려 줌.)
-  
+- git reset --hard hashcode (이전 커밋으로 되 돌아감)
+- git reflog (이전 commit 기록들을 보여줌)
+
 ## 연결하기
 - git remote add origin https://github.com/ChangJae-YOO/Today-I-Learned.git (origin이란 등록이름으로 주소를 원격 연결 )
 - git remote -v (연결 확인)
