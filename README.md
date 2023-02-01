@@ -1,9 +1,11 @@
 # Today-I-Learned
 It's all about what i learned today
 
-## algorithm
-- [list1](algorithm/list1.md)
-- [list2](algorithm/list2.md)
+## data structure
+- [list1](data-structure/list1.md)
+- [list2](data-structure/list2.md)
+- [string](data-structure/string.md)
+- [stack](data-structure/stack.md)
 ## git
 - [git](git/git.md)
 - [linux-command](git/linux-command.md)
