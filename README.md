@@ -5,7 +5,9 @@ It's all about what i learned today
 - [list1](data-structure/list1.md)
 - [list2](data-structure/list2.md)
 - [string](data-structure/string.md)
-- [stack](data-structure/stack.md)
+- [stack1](data-structure/stack1.md)
+- [stack2](data-structure/stack2.md)
+- [queue](data-structure/queue.md)
 ## git
 - [git](git/git.md)
 - [linux-command](git/linux-command.md)
