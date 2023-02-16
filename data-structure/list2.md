@@ -1,4 +1,6 @@
-# List2 (2023-01-16) (SW expert academy)
+[README](../README.md)
+
+# List2
 
 ## 2차원 List 구조
 - 1차원 List를 묶어놓은 List

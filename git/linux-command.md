@@ -1,3 +1,5 @@
+[README](../README.md)
+
 # 간단한 linux-command 배움 (2023-01-12)
 
 - touch

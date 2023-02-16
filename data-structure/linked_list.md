@@ -1,4 +1,7 @@
-# Linked List
+[README](../README.md) 
+
+# Linked List 
+
 
 ## List
 - 순서를 가진 데이터의 묶음 : 같은 데이터의 중복 저장 가능

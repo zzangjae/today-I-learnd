@@ -1,4 +1,6 @@
-# List1 (2023-01-16) (SW Expert Academy)
+[README](../README.md)
+
+# List1
 
 ## 알고리즘 개요
 - 알고리즘이란 유한한 단계를 통해 문제를 해결하기 위한 절차나 방법이다.

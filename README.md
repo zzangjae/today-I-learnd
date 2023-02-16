@@ -8,8 +8,11 @@ It's all about what i learned today
 - [stack1](data-structure/stack1.md)
 - [stack2](data-structure/stack2.md)
 - [queue](data-structure/queue.md)
-- [Linked List](data-structure/linked_list.md)
+- [linked List](data-structure/linked_list.md)
 - [tree](data-structure/tree.md)
+## database
+- [database1](database/database1.md)
+
 ## git
 - [git](git/git.md)
 - [linux-command](git/linux-command.md)
