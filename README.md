@@ -10,8 +10,17 @@ It's all about what i learned today
 - [queue](data-structure/queue.md)
 - [linked List](data-structure/linked_list.md)
 - [tree](data-structure/tree.md)
+
+## computational thinking and algorithm
+- [논리와 증명](computational_thinking/논리와_증명.md)
+- [집합과 조합론 기초수식](computational_thinking/집합과_조합론_기초수식.md)
+- [알고리즘 시작하기](algorithm/시작하기.md)
+
 ## database
 - [database1](database/database1.md)
+- [mysql](database/mysql.md)
+
+
 
 ## git
 - [git](git/git.md)
