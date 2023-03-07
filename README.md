@@ -20,7 +20,9 @@ It's all about what i learned today
 - [database1](database/database1.md)
 - [mysql](database/mysql.md)
 
-
+## Web
+- [html](./web/html.md)
+- [css](./web/css.md)
 
 ## git
 - [git](git/git.md)
