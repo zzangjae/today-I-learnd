@@ -15,6 +15,8 @@ It's all about what i learned today
 - [논리와 증명](computational_thinking/논리와_증명.md)
 - [집합과 조합론 기초수식](computational_thinking/집합과_조합론_기초수식.md)
 - [알고리즘 시작하기](algorithm/시작하기.md)
+- [완전검색](algorithm/완전검색.md)
+- [탐욕 알고리즘](algorithm/%ED%83%90%EC%9A%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 ## database
 - [database1](database/database1.md)
@@ -23,6 +25,8 @@ It's all about what i learned today
 ## Web
 - [html](./web/html.md)
 - [css](./web/css.md)
+- [bootstrap](./web/bootstrap.md)
+- [django](./web/Django.md)
 
 ## git
 - [git](git/git.md)
