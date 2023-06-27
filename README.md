@@ -18,9 +18,15 @@ It's all about what i learned today
 - [완전검색](algorithm/완전검색.md)
 - [탐욕 알고리즘](algorithm/%ED%83%90%EC%9A%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
+## data modeling
+- [데이터 모델과 성능](data-modeling/데이터-모델과-성능.md)
+- [데이터 모델과 이해](data-modeling/데이터-모델과-이해.md)
+- [ERD](data-modeling/ERD.md)
+
 ## database
 - [database1](database/database1.md)
 - [mysql](database/mysql.md)
+- [ERD](database/)
 
 ## Web
 - [html](./web/html.md)
@@ -31,9 +37,15 @@ It's all about what i learned today
 ## git
 - [git](git/git.md)
 - [linux_command](git/linux-command.md)
+  
 ## http
 - [요청응답](http/요청응답.md)
+
 ## markup language
 - [markdown](markup/markdown.md)
-## virtual_env
+
+## virtual env
 - [virtual_environment](virtual_env/virtual_env.md)
+
+## clean code
+- [code-conventions](clean-code/code-conventions.md)

@@ -1,38 +1,51 @@
 [README](../README.md)
 
-# This is markdown exmaples (2023-01-12)
-## heading
-### heading
-#### heading
-###### heading
+markdown의 기능에 맞추어 기능과 문맥이 일관성 있게 사용하자
+(https://youtu.be/kMEb_BzyUqk) 참고함
 
-역할을 부여한 것임
-제목을 나타내는 방식
+<!-- Heading -->
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-- 리스트를 표현할 수 있음
-- 엔터를 누르면 자동으로 생김
+Paragraph
 
-1. 으로 작성하면
-2. 순서가 있는 리스트를 작성 가능하다
-3. 엔터를 두번 누르면 취소가 된다.
+<!-- Line -->
+___
 
-`print()`라는 함수를 사용해서 출력할 수 있다.
+<!-- Text attributes -->
+**bold**  
+*italic*  
+~strikethrough~  
 
-```python
-for i in range(10):
-  print(i)
+<!-- Bullet List -->
+Fruits:
+- apple
+- lemon
+
+Fruits:
+1. apple
+2. lemon
+
+<!-- Link -->
+Click [here](https://www.naver.com/)
+
+<!-- Image -->
+![image description](image link)
+
+<!-- Table -->
+|Header|Description|
+|--|--|
+|Cell1|Cell2|
+
+|Header|Description|
+|:--:|:--:|
+|Cell1|Cell2|
+
+<!-- COde -->
+```js
+console.log('your message')
 ```
-
-
-**진하게**
-*기울기*
-***진하고 기울게***
-
-
-네이버로 이동하는 링크를 만들고 싶어요. 근데 지금 엔터를 쳤는데, <br/>오른쪽에는엔터가 안 쳐진 상태예요
-
-두번 엔터를 치면 문단을 바꿔주는 효과를 줄 수있다.
-
-[눈에 보이는 부분](링크가 들어갈 부분 (절대경로, 상대경로))
-[네이버](https://www.naver.com/)
-[agify.py](agify.py)
