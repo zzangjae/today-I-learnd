@@ -52,3 +52,6 @@ It's all about what i learned today
 
 ## 프로젝트 관리 방법론
 - [Jira](./%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EB%B2%95%EB%A1%A0/Jira.md)
+- [PM(ProjectManagement)](./%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EB%B2%95%EB%A1%A0/PM.md)
+- [프로젝트 시작하기](./%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EB%B2%95%EB%A1%A0/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- [DevOps](./프로젝트%20관리%20방법론/DevOps.md)
